@@ -1,2 +1,2 @@
 # UE5_FilRouge
-"Fil Rouge" project repository. 3D platformer based on UE5 assets. Work in progress.
+"Fil Rouge" project repository. 3D platformer. Assets are from StackOBot project. Work in progress.
